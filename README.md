@@ -1,1 +1,3 @@
-# ECE444-F2020-Lab3
+# Jeremy Liu
+this repo is a clone of https://github.com/miguelgrinberg/flasky
+
