@@ -1,0 +1,5 @@
+Flask==0.12
+Flask-Bootstrap == 3.3.7.1
+Flask_Moment == 0.10.0
+Flask_WTF == 0.14.3
+email_validator == 1.1.1
